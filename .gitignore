@@ -1,0 +1,9 @@
+# Never commit credentials or sensitive data
+.env
+*.pem
+*.key
+passwd
+*.log
+Thumbs.db
+.DS_Store
+.vscode/
